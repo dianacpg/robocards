@@ -1,3 +1,3 @@
 # robocards
 
-React app of a Colection of cards using JSON Placeholder API and Robohash.
+React app with cards collection using JSON Placeholder API and Robohash.
